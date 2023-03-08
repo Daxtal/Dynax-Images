@@ -1,0 +1,103 @@
+{
+    "m_Version": 5,
+    "EnableMap": 1,
+    "UseMapOnMapItem": 1,
+    "ShowPlayerPosition": 1,
+    "ShowMapStats": 1,
+    "NeedPenItemForCreateMarker": 0,
+    "NeedGPSItemForCreateMarker": 0,
+    "CanCreateMarker": 1,
+    "CanCreate3DMarker": 1,
+    "CanOpenMapWithKeyBinding": 1,
+    "ShowDistanceOnPersonalMarkers": 1,
+    "EnableHUDGPS": 1,
+    "NeedGPSItemForKeyBinding": 1,
+    "NeedMapItemForKeyBinding": 0,
+    "EnableServerMarkers": 1,
+    "ShowNameOnServerMarkers": 1,
+    "ShowDistanceOnServerMarkers": 1,
+    "ServerMarkers": [
+        {
+            "m_UID": "ServerMarker_Trader_Wilderness",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Trader - Wilderness",
+            "m_IconName": "Compass",
+            "m_Color": -13710223,
+            "m_Position": [
+                137.56100463867188,
+                392.3243713378906,
+                12513.0
+            ],
+            "m_Locked": 0,
+            "m_Persist": 0
+        },
+        {
+            "m_UID": "ServerMarker_Aircrafts_Balota",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Aircrafts - Balota",
+            "m_IconName": "Helicopter",
+            "m_Color": -13710223,
+            "m_Position": [
+                4973.0,
+                12.0,
+                2436.0
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "ServerMarker_Special",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Black Market",
+            "m_IconName": "Skull 2",
+            "m_Color": -13710223,
+            "m_Position": [
+                9075.5810546875,
+                245.10403442382813,
+                8052.7451171875
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "ServerMarker_Dispensary",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Dispensary",
+            "m_IconName": "Herbal Medicine",
+            "m_Color": -13710223,
+            "m_Position": [
+                100.66999816894531,
+                305.614013671875,
+                7430.97021484375
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "ServerMarker_Trader_Green_Mountain",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Trader - Green Mountain",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                3698.0,
+                405.0,
+                5988.0
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        }
+    ],
+    "EnableHUDCompass": 1,
+    "NeedCompassItemForHUDCompass": 1,
+    "NeedGPSItemForHUDCompass": 1,
+    "CompassColor": -1,
+    "CreateDeathMarker": 1,
+    "PlayerLocationNotifier": 1,
+    "CompassBadgesColor": -1946157056
+}
