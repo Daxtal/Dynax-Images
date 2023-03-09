@@ -1,0 +1,33 @@
+{
+    "m_Version": 10,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "TraderIcon": "Backpack",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Helmets",
+        "Caps",
+        "Hats_And_Hoods",
+        "Armbands",
+        "Backpacks",
+        "Eyewear",
+        "Gloves",
+        "Bandanas",
+        "Masks",
+        "Vests",
+        "Holsters_And_Pouches",
+        "Belts",
+		"Patches"
+    ],
+    "Items": {
+		"platecarriervest": 3,
+        "platecarriervest_green": 3,
+        "platecarriervest_black": 3,
+        "platecarriervest_camo": 3,
+        "MVS_Combat_Vest_OD": 3,
+        "MVS_Combat_Vest_Heavy_OD": 3	
+	}
+}

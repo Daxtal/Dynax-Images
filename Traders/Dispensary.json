@@ -1,0 +1,32 @@
+{
+    "m_Version": 10,
+    "DisplayName": "Dispensary Trader",
+    "MinRequiredReputation": -9999,
+    "MaxRequiredReputation": 9999,
+    "TraderIcon": "Herbal Medicine",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Bricks",
+        "Cannabis_Products",
+        "Smokes",
+        "Shrooms",
+        "Growing_Equipment"
+    ],
+    "Items": {
+		"CP_CannabisBrickSkunk": 2,
+        "CP_CannabisBrickBlue": 2,
+        "CP_CannabisBrickKush": 2,
+        "CP_CannabisBrickStardawg": 2,
+        "CP_CannabisBrickFuture": 2,
+        "CP_CannabisBrickS1": 2,
+        "CP_CannabisBrickNomad": 2,
+        "CP_CannabisBrickBlackFrost": 2,
+        "Blackouts_CannabisBrickMidnight_Express": 2,
+        "Blackouts_CannabisBrickAlbino": 2,
+        "Blackouts_CannabisBrickExodus": 2,
+        "Blackouts_CannabisBrickGanja_Mountain": 2,
+        "Blackouts_CannabisBrickDaxtal": 2
+	}
+}
