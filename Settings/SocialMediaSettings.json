@@ -1,0 +1,21 @@
+{
+    "m_Version": 2,
+    "NewsFeedTexts": [
+        {
+            "m_Title": "Dynax",
+            "m_Text": "Welcome to Dynax Chernarus! We appreciate you playing here and enjoying your time. Let us know what errors you encounter so we can fix it."
+        }
+    ],
+    "NewsFeedLinks": [
+        {
+            "m_Label": "Discord",
+            "m_Icon": "set:expansion_iconset image:icon_discord",
+            "m_URL": "https://discord.gg/vqcTuNnaga"
+        },
+        {
+            "m_Label": "Twitter",
+            "m_Icon": "set:expansion_iconset image:icon_twitter",
+            "m_URL": "https://www.google.com/"
+        }
+    ]
+}
